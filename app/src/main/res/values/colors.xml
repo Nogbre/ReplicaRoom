@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#4CAF50</color> <!-- Verde para el botón flotante y acciones principales -->
+    <color name="colorPrimaryDark">#388E3C</color> <!-- Un verde más oscuro para destacar -->
+    <color name="colorAccent">#FFC107</color> <!-- Amarillo para acentos -->
+
+    <!-- Background Colors -->
+    <color name="backgroundColor">#F5F5F5</color> <!-- Fondo de la actividad principal -->
+    <color name="itemBackground">#FFFFFF</color> <!-- Fondo de cada item en el RecyclerView -->
+
+    <!-- Text Colors -->
+
+    <!-- Button Colors -->
+    <color name="buttonAdd">#FF9800</color> <!-- Naranja para el botón de guardar -->
+
+    <!-- Floating Action Button Colors -->
+    <color name="fabBackground">#4CAF50</color> <!-- Verde para el FloatingActionButton -->
+    <color name="fabIcon">#FFFFFF</color> <!-- Blanco para el ícono en el FAB -->
+
+    <!-- Primary Colors -->
+    <color name="colorPrimaryVariant">#3700B3</color> <!-- Variante más oscura del morado -->
+
+    <!-- Backgrounds -->
+    <color name="backgroundLight">#F5F5F5</color> <!-- Fondo claro para la aplicación -->
+    <color name="cardBackground">#FFFFFF</color> <!-- Fondo de las tarjetas de productos -->
+    <color name="divider">#E0E0E0</color> <!-- Línea divisoria en las tarjetas -->
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#212121</color> <!-- Texto principal en gris oscuro -->
+    <color name="textSecondary">#757575</color> <!-- Texto secundario en gris claro -->
+
+    <!-- Button Colors -->
+    <color name="buttonSell">#FF5722</color> <!-- Botón "Vender" en naranja -->
+    <color name="buttonDelete">#D32F2F</color> <!-- Botón "Borrar" en rojo oscuro -->
+</resources>
